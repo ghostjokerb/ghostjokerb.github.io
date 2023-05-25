@@ -1,0 +1,23 @@
+h2{
+    font-family: 'Signika Negative', sans-serif;
+    
+}
+p{
+    color:#2626DD;
+    padding: 3px;
+    background-color: bisque;
+    
+}
+p:hover{
+    color:royalblue;
+}
+img{
+    height: 30px;
+    width: 30px;
+}
+ul li:hover{
+    color:rgb(226, 43, 156);
+}
+li .des:hover{
+    color:greenyellow;
+}
